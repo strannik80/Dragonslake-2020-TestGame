@@ -5,3 +5,7 @@
 /.vs/TestGame/v17/DocumentLayout.json
 /.vs/TestGame/v17/Solution.VC.db
 /.vs/TestGame/v17/ipch/AutoPCH/db99c51e273c8e13/GAME.ipch
+TestGame.exe
+TestGame.pdb
+TestGame.exe.recipe
+Debug
