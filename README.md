@@ -1,4 +1,4 @@
-A test assignment done by myself for software engineering internship at Dragonslake (a ukrainian outsourcing company). Done in summer 2020. This test game was done in about one week time period. Game is built on top of provided framework. For more details about the assignment read TestTaskDescripiton.txt.
+A test assignment done by myself for software engineering internship at Dragonslake (a ukrainian outsourcing company). Done in summer 2020. This test game was done in about one week time period, from scratch, in C++ language. Game is built on top of provided framework. For more details about the assignment read TestTaskDescripiton.txt.
 
 
 
