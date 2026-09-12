@@ -1,2 +1,4 @@
 A test game assignment done by myself for software engineering internship at Dragonslake (a ukrainian outsourcing company). Done in summer 2020. This test game was done in about one week time period. Game is built on top of provided framework. For more details about the assignment read TestTaskDescripiton.txt.
+
+
 <img width="1029" height="803" alt="Screenshot 2026-09-12 154405" src="https://github.com/user-attachments/assets/2341c0f9-0686-49e2-975b-cdaf369cea00" />
